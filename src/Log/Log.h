@@ -1,4 +1,8 @@
+#pragma once
+
 #include "Arduino.h"
+
+#define PRINT_LOGS
 
 class Logger
 {
